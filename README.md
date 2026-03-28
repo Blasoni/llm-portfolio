@@ -1,5 +1,5 @@
 # llm-portfolio
-Exploring LLMs from an Security Analyst's perspective/Background — sharing my learning process and open code (hopefully it can help someone else)
+Exploring LLMs from an Security Analyst's perspective/Background
 
 
 Hello, I completed my undergraduate degree in Civil Engineering and my Master’s in Transportation Engineering. While most of my early academic work was not heavily focused on programming, I developed a strong interest in coding and technology during the latter half of my undergrad and master’s studies — which ultimately led me to pivot into cybersecurity.
